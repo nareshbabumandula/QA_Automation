@@ -6,6 +6,8 @@ public class Demo {
 		System.out.println("Welcome to Core Java Training..!");
 		System.out.println("Selenium Java");
                 System.out.println("1st Git hub session");
+		System.out.println("2nd Git hub session");
+		
 
 	}
 
